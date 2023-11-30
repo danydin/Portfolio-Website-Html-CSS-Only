@@ -1,0 +1,21 @@
+ # reset all props margin, padding, box-sizing , font imported and sans serif as back up
+
+ # body: height full view height, dark background
+
+ # navbar class > flex, center vertical, space between horiziontal, height 80px , pading up down 0 sides 50px
+
+ navbar h2 > flex
+
+ navbar ul li > no decoration
+
+ navbar ul li a > no decoration , white, 16px size, right margin 25px, transit color(prop name) 0.3 ease
+
+ navbar ul li hover a > color(prop) organge 
+
+ navbar ul li last child> no margin
+
+ hire btn> background light orange, padding 6up dwon 30 sides  , no borderds decoration, 16px font, pointer cursor, border raduis 6px , transit background 0.3 ease
+
+ btn hover > background dark orange
+
+ .main height 640px,  flex, flex driection column, center horizontal and vertical
