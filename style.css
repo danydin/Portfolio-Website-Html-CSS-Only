@@ -19,3 +19,13 @@
  btn hover > background dark orange
 
  .main height 640px,  flex, flex driection column, center horizontal and vertical 
+
+ .main h4 font 34px white 600 weight
+
+ .main h4 span light orange font with underline
+
+ .main p.title 44px font 600 bold white 8px margin top
+
+ .main p.subtitle 16px white 20px margin top
+
+ .main img 200px width & hegiht 100px margin top
