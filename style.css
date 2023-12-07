@@ -29,4 +29,59 @@
  .main p.subtitle 16px white 20px margin top
 
  .main img 200px width & hegiht 100px margin top
+
+ .guranutee : mar-top 50px , padd 0 top bottom 50px sides , flex, nowrap, gapping 24px
+
+ .graunitee .item : backgro dark-grey, flex, horizotal space-between  , vertical center, hiegiht 100px, width 100%, bor radius 10px, padding 0 30px, border, 1px solid transparent, pointer, transit all 0.3s ease
+
+ .graunutee .item:hover; border color orange
+
+ .gruanutee .item .icon : 46px height & width, white backgrou, 50% radius border, flex, center horizional & vertical, transtiion, background-color 0.3s ease
+
+ .guranutee .item:hover .icon {
+    background color orange
+ }
+
+ .gruanutee .item .icon i : font 30px
+
+ .guranutee .item .info: flex, column, vertical center
+
+ .guraniiuee .item .info h3 : color orange 28px
+
+ .guranutee .item .info p: white, 15px, 600 bold
+
+ .guranutee .item > i: white, 30px, transit color 0.3s ease
+
+ .guranuteee .item:hover > i : color orange
+
+ .sperator : margin 50px 50px 30px, padding 10px 20px, background rgba black 0.08 , inline-blcok, orange, border radius 12px
+
+ .about: flex, space-between horizontal, center vertical, 80px gap, 0 50px padding
+
+ . about img : 200px width
+
+ .about .info h3: white, 32px size, 600 bold, 10px mar bottom
+
+ .about .info p: white, 14px
+
+ .about .info button: 30px mar top
+
+ .skills: flex, space-between horizontal, 0 - 50px padding, 
+
+ .skills .left: 680px width
  
+ .skills .left .info h3: white, 30px, bottom 20px
+
+ .skills .left .info p: white ,14px
+
+ .skills .left button: margintop 30px
+
+ .skills .right: 420px width, 120px height, flex, cetner vertical & horizontal, wrap, 12px gap
+
+ .skills .right .item: flex, center hortriontal & vertical, dark gray background, 50px height & width, 10px border raduis
+
+ .skills .right .item i: 34px , white color, 
+
+ footer: relative, black bacground, 80 50px 40px padding, margin top 100px
+
+ footer .start: flex, center vertical, space-around horiozntal, absoulte, background yello, padding 30px 25px, 15px border radius, 70% width , top -16% , left 15%
