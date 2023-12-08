@@ -85,3 +85,95 @@
  footer: relative, black bacground, 80 50px 40px padding, margin top 100px
 
  footer .start: flex, center vertical, space-around horiozntal, absoulte, background yello, padding 30px 25px, 15px border radius, 70% width , top -16% , left 15%
+
+ footre .start p: 13px , 35% width
+
+ footer .start button: transprent background, 1px solid black border, pointer, 8px top bottom 20px sides padding, 100px radius border, all 0.3s ease tranistion
+
+  footer .start button:hover : white background, border color
+
+
+footer .cols: flex, start align items
+
+footer .cols .about-col: 3 flex
+
+footer .cols .about-col h3: color light orange, margin-bottom 20px
+
+footer .cols .about-cols p: white, 13px
+
+footer .cols .links-col: 3 flex
+
+footer .cols .links-col h4, footer .cols .news-col h4: white color, 20px marg bottom
+
+footer .cols .links-col a: block, no text decoration, gray color, 14 px, 26px line hieight transition color
+
+footer .cols .links-col a:hover : 
+color orange
+
+footer .cols .news-col: flex 3
+
+footer .cols .news-col p: gray color 14px
+
+footer .cols .news-col form: 100% width, 20px margin top, relative
+
+footer .cols .news-col form input: width 100%, backgroumd, light black, no border, 13px padding, 100px radius border,400 font wieght , 13px
+
+footer .cols .news-col form button: flex, align-items center, 45px width & height, orange background, no border, 50% raidus border, absoulute, top 0 right 0 pointer, transit background-color
+
+footer .cols .news-col form button:hover: ornage background color
+
+footer .cols .news-col form button i: 26px 
+
+media screen and max width 1100 px { .gurnanutee: wrap, 10px gap
+    .gruanutee .item: flex basis 49% 
+
+    .skills: space-bettween, 20px gap
+
+    .skills .left: 500px width
+
+    .skills .left .info h3: 22px 
+
+    .skills .left .info p: 12px
+
+    foooter: 150px margin top
+
+    footer .start: width 90%, left 5% top -20%
+
+    footer .cols: wrap
+
+    footer .cols .about-cols, footer .cols .links-col, footer .cols .news-col: flex-basis 50%
+
+}
+
+media screen and max 780px{
+    .navbar button: none
+    .main h4: 24px
+    .main p.title: 36px
+    .main p.subtitle: 14px
+    .guranutee .item: flex-basis 100%
+    .about : wrap, horizontal center
+}
+
+media screen and max width 650px:
+.navbar: horizontal center
+.navbar h2: none
+.navbar ul li a: 14px
+.main: 50px marg top, 320px height, hortizntal start
+.main h4: 20px
+.main p.title: 20px
+.main p.subtitle: 12px
+.main img: marg tp 40px, width& height 150px
+.skills: wrap, horizotnal center
+.skills .right: horizotanl space between
+.skills .left .info h3: 20px
+footer .start: top -8%
+footer .start p: none
+footer .cols .about-cols: basis 100%, marg-bottom 40px
+footer .cols .links-col: basis 100%, 20px marg-bottom
+footer .cols .news-col: basis 100%
+
+media screen and max width 480px:
+.main p.title: 18px
+.main p.subtitle: 10px
+.grauntee .item .info h3: 20px
+.gruranutee .item .info p: 12px
